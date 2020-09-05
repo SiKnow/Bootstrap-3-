@@ -1,1 +1,1 @@
-# Bootstrap-3-
+# Bootstrap-3-example project
